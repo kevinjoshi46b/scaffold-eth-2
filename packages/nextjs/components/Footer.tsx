@@ -33,7 +33,7 @@ export const Footer = () => {
             <div>
               Built using{" "}
               <a
-                href="https://github.com/scaffold-eth/se-2"
+                href="https://github.com/scaffold-eth/scaffold-eth-2"
                 target="_blank"
                 rel="noreferrer"
                 className="underline underline-offset-2"
