@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Scaffold-ETH 2 App</title>
+        <title>Scaffold-ETH 2 App: Home</title>
         <meta name="description" content="Created with 🏗 scaffold-eth-2" />
       </Head>
 
